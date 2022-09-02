@@ -1,0 +1,7 @@
+com\newgenerate\controller\MenuController.class
+com\newgenerate\mapper\MenuMapper.class
+com\newgenerate\service\MenuService.class
+com\newgenerate\Generator.class
+com\newgenerate\NewgenerateApplication.class
+com\newgenerate\entity\Menu.class
+com\newgenerate\service\impl\MenuServiceImpl.class
